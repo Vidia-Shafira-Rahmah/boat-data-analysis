@@ -9,7 +9,7 @@ This dataset was obtained from Kaggle: "Boat Sales"
 
 ## Methodology
 This project follows a standard data science workflow:
-1.  **Data Acquisition & Initial Exploration:** Loading the dataset and performing initial checks (shape, info, describe, missing values).
+1.  **Data Acquisition & Initial Exploration:** The original dataset was obtained from Kaggle. The initial data analysis and preprocessing were first performed in Excel, resulting in the `boat_data analysis.xlsx` file, which then serves as the foundation for further steps.
 2.  **Data Cleaning & Preprocessing:**
     * Handling missing values (dropping duplicates, dealing with NaNs).
     * Cleaning and transforming numerical features (e.g., Price_USD, Length, Width, Year Built).
